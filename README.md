@@ -15,7 +15,8 @@
     dis——编译后的文件夹
     src——开发源代码
       |——components（组件）
-      |——public
+      |——view（页面）
+      |——static
       |    |--font（字体文件夹）
       |    |--imgs（图片文件夹）
       |    |--lib （第三方JS库文件夹）
